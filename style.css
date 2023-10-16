@@ -199,12 +199,7 @@
   .nav{
     display: block;
   }
-  .nav li{
-    float: none;
-  }
-  .navi{
-   display: none;
-  }
+ 
   .tablica{
     order: -1;
   }
