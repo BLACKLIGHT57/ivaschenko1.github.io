@@ -287,5 +287,8 @@ justify-content: center;
 {
 width: 100%;
 }
+.slider{
+  padding: 0px 80px;
+}
   
     }
