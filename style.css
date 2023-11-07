@@ -285,9 +285,7 @@ justify-content: center;
   }
     .slider .slider_item img
 {
-
-width: 200px;
-height: 100px;
+width: 100%;
 }
   
     }
